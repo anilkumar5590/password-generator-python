@@ -28,4 +28,4 @@ if __name__=="__main__":
     for i in range(password_length):
         character=generate_password()
         password+=character
-    print("The password : "+password)
+    print("Generate password : "+password)
